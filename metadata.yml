@@ -1,0 +1,5 @@
+posts:
+    hello-blog:
+        title: Hello Blog
+        description: Say hello to our future subscribers :)
+        publishedAt: 2015-08-30
