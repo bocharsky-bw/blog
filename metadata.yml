@@ -1,5 +1,6 @@
 posts:
     hello-blog:
+        publishedAt: 2015-08-30
         title: Hello Blog
         description: Say hello to our future subscribers :)
-        publishedAt: 2015-08-30
+        summary: A little about this blog and my future plans with it.
